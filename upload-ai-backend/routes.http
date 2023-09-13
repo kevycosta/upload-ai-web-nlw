@@ -1,0 +1,9 @@
+# @name get-prompts
+GET http://localhost:5000/prompts
+
+###
+
+# # @name get-prompts
+# GET http://localhost:5000/prompts
+
+

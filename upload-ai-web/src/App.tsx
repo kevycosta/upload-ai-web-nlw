@@ -53,7 +53,7 @@ export function App() {
               Selecione um vídeo.
             </label>
 
-            <input type="file" id="video" accept="video/mp4" className="sr-only"/>
+            <input type="file" id="video" name="mp4_file" accept="video/mp4" className="sr-only"/>
 
             <Separator className=""></Separator>
             
